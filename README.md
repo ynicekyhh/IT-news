@@ -11,3 +11,7 @@ for uploading IT news
 
 ### 서울 <-> 부산 20분, 하이퍼튜브(테슬라), 한국도 개발 착수
 - [하이퍼튜브](http://news.joins.com/article/21137780)
+
+### 머신러닝의 발전, 알파고 제로
+- 알파고 제로가 알파고 이김
+- [http://m.hani.co.kr/arti/economy/it/815115.html?_adtbrdg=e#_adtLayerClose](http://m.hani.co.kr/arti/economy/it/815115.html?_adtbrdg=e#_adtLayerClose)
